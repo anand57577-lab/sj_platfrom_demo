@@ -1,0 +1,10 @@
+{
+  "description": "Shop handcrafted jewellery and personalised gifts, manage orders and wishlists, and oversee products, customers, and fulfilment in a unified marketplace.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
